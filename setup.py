@@ -147,7 +147,7 @@ setup(
     long_description=readme_content,
     author="Mike Dirolf",
     author_email="mongodb-user@googlegroups.com",
-    maintainer="Alex Grönholm",
+    maintainer="Alex Groenholm",
     maintainer_email="alex.gronholm+pypi@nextday.fi",
     url="http://github.com/mongodb/mongo-python-driver",
     keywords=["mongo", "mongodb", "pymongo", "gridfs", "bson"],
